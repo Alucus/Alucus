@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on something
+🌱 I’m currently learning something
+⚡ Fun fact: There's no fun fact..
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&cover_image=true&theme=default&show_offline=true&background_color=1b1818&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&redirect=true)
