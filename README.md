@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Alucus&style=flat-square&abbreviated=true&label=Profile+Views) <img alt="followers" src="https://img.shields.io/github/followers/Alucus?label=Followers&style=social">
 
 <!--
 **Alucus/Alucus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucus&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=Alucus&style=flat-square&abbreviated=true&label=Profile+Views) <img alt="followers" src="https://img.shields.io/github/followers/Alucus?label=Followers&style=social">
+
