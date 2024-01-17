@@ -6,10 +6,10 @@
   ![](https://komarev.com/ghpvc/?username=Alucus&style=flat-square&abbreviated=true&label=Profile+Views) <img alt="followers" src="https://img.shields.io/github/followers/Alucus?label=Followers&style=social">
 
 
-🔭 I’m currently working on something
-🌱 I’m currently learning something
-⚡ Fun fact: There's no fun fact..
-Self-taught
+  🔭 I’m currently working on something
+  🌱 I’m currently learning something
+  ⚡ Fun fact: There's no fun fact..
+  Self-taught
 
 Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 
