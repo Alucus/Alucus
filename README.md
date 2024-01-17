@@ -11,7 +11,7 @@
   ⚡ Fun fact: There's no fun fact.. \
   Self-taught
 
-  Image by [Sab_](https://www.pixiv.net/en/artworks/102773104) \
+  Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 
 
 <!--
