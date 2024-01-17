@@ -29,12 +29,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java)](https://skillicons.dev)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&cover_image=true&theme=default&show_offline=true&background_color=1b1818&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&redirect=true)
-
-
-
-![Makima full 3812776 (1)](https://github.com/Alucus/Alucus/assets/104744489/b540bc15-7540-49bb-a287-08d4709da680)
-Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucus&layout=compact)
