@@ -1,7 +1,6 @@
 <p float="left">
 <img src='image00.jpg' align="left">
-<p float="left">
-### Hi there 👋
+<p float="left"> ### Hi there 👋
 
   ![](https://komarev.com/ghpvc/?username=Alucus&style=flat-square&abbreviated=true&label=Profile+Views) <img alt="followers" src="https://img.shields.io/github/followers/Alucus?label=Followers&style=social">
 
