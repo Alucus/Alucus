@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -19,6 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning something
 - ⚡ Fun fact: There's no fun fact..
 - Self-taught
+
+![Makima full 3812776](https://github.com/Alucus/Alucus/assets/104744489/320cbf6c-aa5a-42e9-ba8b-f6a87d991b06)
+Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&cover_image=true&theme=default&show_offline=true&background_color=1b1818&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&redirect=true)
 
