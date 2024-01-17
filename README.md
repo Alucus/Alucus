@@ -9,7 +9,7 @@
   🔭 I’m currently working on something \
   🌱 I’m currently learning something \
   ⚡ Fun fact: There's no fun fact.. \
-  Self-taught \
+  Self-taught
 
   Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 
