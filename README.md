@@ -1,8 +1,6 @@
 <p float="left">
 <img src='image00.jpg' align="left">
 <p float="left">
-
-![Makima full 3812776 (1)](https://github.com/Alucus/Alucus/assets/104744489/b540bc15-7540-49bb-a287-08d4709da680)
 Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 
 
