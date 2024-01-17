@@ -13,7 +13,11 @@
 
   Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 
-
+<p align=left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java" />
+  </a>
+</p>
 <!--
 **Alucus/Alucus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
