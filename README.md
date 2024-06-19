@@ -6,7 +6,7 @@
 
 
   🔭 I’m currently working on something \
-  🌱 I’m currently learning Python \
+  🌱 I’m currently learning Python, C++ \
   ⚡ Fun fact: There's no fun fact.. \
   Self-taught
 
