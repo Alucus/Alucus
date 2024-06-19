@@ -10,13 +10,13 @@
   ⚡ Fun fact: There's no fun fact.. \
   Self-taught
 
- 
-  Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
-
+Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 <p align=left>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=blender" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=godot" />
 </p>
 
 ![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany")
@@ -28,7 +28,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&redirect=true)
 
 <p align= "left" >
-  
+
 [W3School](https://www.w3profile.com/Alucus) ,
 [Monkeytype](https://monkeytype.com/profile/Alucus) ,
 [NitroType](https://www.nitrotype.com/racer/117d925bb8c460b9a711a68bc9e17dc4)
