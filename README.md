@@ -13,14 +13,14 @@
 Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 <p align=left>
     <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=blender" />
-    <img src="https://skillicons.dev/icons?i=cpp" />
     <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=godot" />
+    <img src="https://skillicons.dev/icons?i=blender" />
+    
 </p>
 
-![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany")
 ![Switzerland](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ch.png "Switzerland")
+![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany")
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 ![Thailand](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/th.png "Thailand")
 
