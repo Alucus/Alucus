@@ -13,7 +13,9 @@
 Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 <p align=left>
     <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
     <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=godot" />
     <img src="https://skillicons.dev/icons?i=blender" />
     
