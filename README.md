@@ -27,8 +27,6 @@ Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 ![Thailand](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/th.png "Thailand")
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qsrm7j5cnjfkoyyvesy4fz3zyu&redirect=true)
-
 <p align= "left" >
 
 [W3School](https://www.w3profile.com/Alucus) ,
