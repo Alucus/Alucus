@@ -3,8 +3,8 @@
 
 
   🔭 I’m currently working on something \
-  🌱 I’m currently learning Python, C++ \
-  ⚡ Fun fact: There's no fun fact.. \
+  🌱 I’m currently learning Python, C++, godot, blender, german, english \
+  ⚡ Fun fact: Look at what i'm doing up there.. \
   Self-taught
 
 Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
