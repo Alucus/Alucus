@@ -26,8 +26,8 @@ Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 
 <p align= "left" >
 
-[W3School](https://www.w3profile.com/Alucus) ,
-[Monkeytype](https://monkeytype.com/profile/Alucus) ,
-[NitroType](https://www.nitrotype.com/racer/117d925bb8c460b9a711a68bc9e17dc4)
+
+[Monkeytype](https://monkeytype.com/profile/Alucus)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucus&layout=compact)
