@@ -3,7 +3,7 @@
 
 
   🔭 I’m currently working on something \
-  🌱 I’m currently learning Python, C++, godot, blender, german, english \
+  🌱 I’m currently learning Python, C++, Godot, Blender, German, English \
   ⚡ Fun fact: Look at what i'm doing up there.. \
   Self-taught
 
