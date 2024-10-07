@@ -1,16 +1,11 @@
 
   ![](https://komarev.com/ghpvc/?username=Alucus&style=flat-square&abbreviated=true&label=Profile+Views) <img alt="followers" src="https://img.shields.io/github/followers/Alucus?label=Followers&style=social">
 
+Self-taught
 
-  🔭 I’m currently working on something \
-  🌱 I’m currently learning Python, C++, Godot, Blender, German, English \
-  ⚡ Fun fact: Look at what i'm doing up there.. \
-  Self-taught
-
-Image by [Sab_](https://www.pixiv.net/en/artworks/102773104)
 <p align=left>
-    <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=unity" />
+    <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=blender" />
     
 </p>
